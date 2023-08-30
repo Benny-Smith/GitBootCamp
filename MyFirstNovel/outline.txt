@@ -1,3 +1,6 @@
+===========
+Outline
+===========
 ch 1
 we meet peeps
 
